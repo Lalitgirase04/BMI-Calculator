@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight">Weight(In KG)</string>
+    <string name="height1">Height(In Feet)</string>
+    <string name="height2">Height(In Inches)</string>
+    <string name="Calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="bmi">BMI Calculator</string>
+    <string name="overw">You are Overweight</string>
+    <string name="underw">You are Underweight</string>
+    <string name="perw">You are Healthy</string>
+    <string name="health">Your Health</string>
+
+</resources>
